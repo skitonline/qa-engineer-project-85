@@ -1,7 +1,7 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/skitonline/qa-engineer-project-85/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/skitonline/qa-engineer-project-85/actions)
 # Тестирование в продакшене
-**Тестируемый сайт:** [https://products-store.hexlet.app](https://codebattle.hexlet.io/)
+**Тестируемый сайт:** [CodeBattle](https://codebattle.hexlet.io/)
 
 ## Описание сайта:
 
